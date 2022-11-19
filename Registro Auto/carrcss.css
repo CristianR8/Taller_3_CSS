@@ -1,0 +1,54 @@
+body{
+    background-image: url("carrito.jpg");
+    color: #ffff;
+}
+
+header{
+    background-color: #000;
+    color: rgb(243, 241, 241);
+    padding: 30px;
+    font-size: larger;
+    display: flex;
+    margin: -8px;
+    padding-left: 550px;
+}
+
+form{
+    column-count: 2;
+    
+}
+
+label{
+    width: 49%;    
+}
+
+label{
+    background-color: #000;
+}
+
+#texto{ 
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: larger;
+}
+
+form{
+    margin-top: 25px;
+}
+
+#boton-registro{
+    margin-left: 350px;
+    width: 40%;
+    padding: 7px;
+}
+
+#boton-registro:active{
+    background-color: #000;
+    color: antiquewhite;
+}
+
+#detalles{
+    width: 50pxpx;
+    height: 50px;
+    overflow: scroll;
+}
